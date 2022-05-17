@@ -1,0 +1,40 @@
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\bin\Debug\net5.0\appsettings.json
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\bin\Debug\net5.0\Aplicação Net6.exe
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\bin\Debug\net5.0\Aplicação Net6.deps.json
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\bin\Debug\net5.0\Aplicação Net6.runtimeconfig.json
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\bin\Debug\net5.0\Aplicação Net6.runtimeconfig.dev.json
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\bin\Debug\net5.0\Aplicação Net6.dll
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\bin\Debug\net5.0\ref\Aplicação Net6.dll
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\bin\Debug\net5.0\Aplicação Net6.pdb
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\bin\Debug\net5.0\Aplicação Net6.Views.dll
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\bin\Debug\net5.0\Aplicação Net6.Views.pdb
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Aplicação Net6.csprojAssemblyReference.cache
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Aplicação Net6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Aplicação Net6.AssemblyInfoInputs.cache
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Aplicação Net6.AssemblyInfo.cs
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Aplicação Net6.csproj.CoreCompileInputs.cache
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Aplicação Net6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Aplicação Net6.RazorAssemblyInfo.cache
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Aplicação Net6.RazorAssemblyInfo.cs
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\staticwebassets\Aplicação Net6.StaticWebAssets.Manifest.cache
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\staticwebassets\Aplicação Net6.StaticWebAssets.xml
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\scopedcss\bundle\Aplicação Net6.styles.css
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Aplicação Net6.TagHelpers.input.cache
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Aplicação Net6.TagHelpers.output.cache
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Aplicação Net6.RazorCoreGenerate.cache
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Aplicação Net6.RazorTargetAssemblyInfo.cache
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Aplicação Net6.RazorTargetAssemblyInfo.cs
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Aplicação Net6.Views.pdb
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Aplicação Net6.dll
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\ref\Aplicação Net6.dll
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Aplicação Net6.pdb
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Aplicação Net6.genruntimeconfig.cache
+C:\Users\Vanderlan Santos\Documents\Projetos\Aplicação Net6\obj\Debug\net5.0\Aplicação Net6.csproj.CopyComplete
